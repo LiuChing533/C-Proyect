@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1690582500 source:c:\c++\proyecto\proyecto_liuchingrichard\main.cpp
+	<iostream>
+	<limits>
+	<fstream>
+	<string>
+	<set>
+	<sstream>
+	<cctype>
+	<iomanip>
+	<vector>
+	<stdexcept>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+

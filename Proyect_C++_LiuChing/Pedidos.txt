@@ -1,0 +1,11 @@
+6468,Liu Ching,0002,2,N
+6468,Liu Ching,0004,1,N
+6543,Gabriel Navarro,0002,1,N
+8078,Maria Paula Cerceno,0002,1,N
+8078,Maria Paula Cerceno,0004,2,N
+8078,Maria Paula Cerceno,0001,1,N
+8682,Gabriel Garita,0002,2,N
+8682,Gabriel Garita,0003,1,N
+2378,Felipe Gomez,0005,1,S
+2378,Felipe Gomez,0002,2,S
+

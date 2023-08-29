@@ -1,0 +1,9 @@
+0002,Hojas Blancas,62
+0003,Tijeras,46
+0004,Tajador,58
+0005,Goma Blanca,74
+0006,Hilo Negro,80
+0007,Tape adhesivo,60
+0008,Agujas,90
+0009,Hilo Morado,35
+0010,Silicon Caliente,85
